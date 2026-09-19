@@ -1,6 +1,0 @@
-{
-  "name": "Ada Synphonia",
-  "description": "Ada Synphonia Next-Gen AI Music Engine and Android APK Architecture Suite",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
